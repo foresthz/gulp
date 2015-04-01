@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "gulp0",
   "description": "The streaming build system",
   "version": "3.8.11",
   "homepage": "http://gulpjs.com",
@@ -21,7 +21,7 @@
     "completion"
   ],
   "bin": {
-    "gulp": "./bin/gulp.js"
+    "gulp0": "./bin/gulp.js"
   },
   "man": "gulp.1",
   "dependencies": {
