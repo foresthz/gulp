@@ -14,6 +14,8 @@ var completion = require('../lib/completion');
 var argv = require('minimist')(process.argv.slice(2));
 var taskTree = require('../lib/taskTree');
 
+console.info(' gulp0 used');
+
 // Set env var for ORIGINAL cwd
 // before anything touches it
 process.env.INIT_CWD = process.cwd();
